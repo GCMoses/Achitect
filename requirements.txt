@@ -4,4 +4,4 @@ pandas
 numpy
 faker
 datetime 
-sklearn
+scikit-learn
